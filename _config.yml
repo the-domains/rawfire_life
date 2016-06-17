@@ -1,0 +1,28 @@
+name: Rawfire_life
+favicon: null
+layout_spectrum: 0.5512388343922794
+typography_spectrum: 0.817975765792653
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.01815830380655825
+  lightness: 0.613051152555272
+  saturation: 0.0640844008885324
+  rhythmicContrast: 0.3806091353762895
+purpose: []
